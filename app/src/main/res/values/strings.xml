@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <!-- Category name for Content [CHAR LIMIT=20] -->
+    <string name="category_content">Menu</string>
+    <!-- Category name for Attractions [CHAR LIMIT=20] -->
+    <string name="category_attraction">Attractions</string>
+    <!-- Category name for Historical Sites [CHAR LIMIT=20] -->
+    <string name="category_historical">Historical Sites</string>
+    <!-- Category name for Things to do [CHAR LIMIT=20] -->
+    <string name="category_things_to_do">Things to do</string>
+    <!-- Category name for Local Cuisine [CHAR LIMIT=20] -->
+    <string name="category_cuisine">Local Cuisine</string>
+
+    <!--Welcome Message-->
+    <string name="welcome_message">Welcome to Tour Guide app for Hyderabad.</string>
+    <string name="know_more">Click on Explore button to know more</string>
+
+    <!--Name of the Explore button-->
+    <string name="explore_button">Explore</string>
+
+    <!--Name and Description of Charminar under attractions-->
+    <string name="attraction_charminar">Charminar</string>
+    <string name="description_charminar">The Charminar ("Four Minarets"), constructed in 1591, is a monument and mosque located in Hyderabad, Telangana, India. The landmark has become a global icon of Hyderabad, listed among the most recognized structures of India.</string>
+
+    <!--Name and Description of Hussain Sagar under attractions-->
+    <string name="attraction_hussain_sagar">Hussain Sagar</string>
+    <string name="description_hussain_sagar">Hussain Sagar is a heart shaped lake in Hyderabad built by Ibrahim Quli Qutub Shah in 1563, during the rule of Ibrahim Quli Qutub Shah. It is spread across an area of 5.7 square kilometers and is fed by River Musi.</string>
+
+    <!--Name and Description of Falaknuma Palace under attractions-->
+    <string name="attraction_falaknuma">Falaknuma Palace</string>
+    <string name="description_falaknuma">Falaknuma is a palace in Hyderabad, Telangana, India. It belonged to the Paigah family, and it was later owned by the Nizam of Hyderabad. It is on a 32-acre (13 ha) area in Falaknuma, 5 km from Charminar.</string>
+
+    <!--Name and Description of Golkonda under attractions-->
+    <string name="attraction_golkonda">Golkonda Fort</string>
+    <string name="description_golkonda">Golkonda, also known as Golconda, Gol konda ("Round shaped hill"), or Golla konda, (Shepherds Hill) is a citadel and fort in Southern India and was the capital of the medieval sultanate of the Qutb Shahi dynasty (c.1518–1687), is situated 11 kilometres (6.8 mi) west of Hyderabad.</string>
+
+    <!--Name and Description of  NTR Gardens under attractions-->
+    <string name="attraction_ntr">NTR Gardens</string>
+    <string name="description_ntr">NTR Gardens is a small public, urban park of 36 acres (0.15 km2; 0.056 sq mi) adjacent to Hussain Sagar lake in Hyderabad, India.</string>
+
+    <!--Name and Description of Mecca Masjid under historical sites-->
+    <string name="historical_mecca">Mecca Masjid</string>
+    <string name="description_historical_mecca">Mecca Masjid , also Makkah Masjid, is one of the oldest mosques in Hyderabad, Telangana in India, and it is one of the largest masajids in India. Makkah Masjid was built during the reign of Muhammad Quli Qutb Shah, the 5th Qutb ShahiSultan of Golconda (now Hyderabad). The three arched facades have been carved from a single piece of granite, which took five years to quarry.More than 8,000 workers were employed to build the mosque. Muhammad Quli Qutb Shah personally laid the foundation stone and constructed it.</string>
+
+    <!--Name and Description of Chowmahalla Palace under historical sites-->
+    <string name="historical_chowmahalla">Chowmahalla Palace</string>
+    <string name="description_historical_chowmahalla">Chowmahalla Palace or Chowmahallatuu (4 Palaces), is a palace of the Nizams of Hyderabad state. It was the seat of the Asaf Jahi dynasty and was the official residence of the Nizams of Hyderabad while they ruled their state.While Salabat Jung initiated its construction in 1750, it was completed by the period of Afzal ad-Dawlah, Asaf Jah V between 1857 and 1869.The palace is unique for its style and elegance. Building of the palace began in the late 18th century and over the decades a synthesis of many architectural styles and influences emerged.</string>
+
+    <!--Name and Description of Golkonda Fort under historical sites-->
+    <string name="historical_golkonda">Golkonda Fort</string>
+    <string name="description_historical_golkonda">Golkonda, also known as Golconda, Gol konda ("Round shaped hill"), or Golla konda, (Shepherds Hill) is a citadel and fort in Southern India and was the capital of the medieval sultanate of the Qutb Shahi dynasty. Golkonda was originally known as Mankal. Golkonda Fort was first built by the Kakatiya dynasty as part of their western defenses along the lines of the Kondapalli Fort. The city and the fortress were built on a granite hill that is 120 meters (480 ft) high, surrounded by massive battlements. The fort was rebuilt and strengthened by Rani Rudrama Devi and her successor Prataparudra</string>
+
+    <!--Name and Description of Charminar under historical sites-->
+    <string name="historical_charminar">Charminar</string>
+    <string name="description_historical_charminar">The Charminar ("Four Minarets"), constructed in 1591, is a monument and mosque located in Hyderabad, Telangana, India. The fifth ruler of the Qutb Shahi dynasty Sultan Muhammad Quli Qutb Shah built the Charminar in 1591.After shifting his capital from Golkonda to Hyderabad he built a big structure of Charminar. The Charminar was constructed in the intersection of the historical trade route that connects the markets of Golkonda with the port city of Machilipatnam. The Old City of Hyderabad was designed with Charminar as its centerpiece.</string>
+
+    <!--Name and description of Biriyani under cuisines-->
+    <string name="cuisine_name_biriyani">Biriyani</string>
+    <string name="cuisine_description_biriyani">Hotel Shadab(Ghansi Bazar), Bawarchi Restaurant(Nallakunta), Cafe 555(Masab Tank)</string>
+
+    <!--Name and description of Haleem under cuisines-->
+    <string name="cuisine_name_haleem">Haleem</string>
+    <string name="cuisine_description_haleem">Pista House(Old City), Sarvi Restaurant(Banjara Hills), Cafe 555(Masab Tank)</string>
+
+    <!--Name and description of Dalcha under cuisines-->
+    <string name="cuisine_name_dalcha">Dalcha</string>
+    <string name="cuisine_description_dalcha">Pista House(Old City), Hotel Shadab(Ghansi Bazar)</string>
+
+    <!--Name and description of Double ka meetha under cuisines-->
+    <string name="cuisine_name_meetha">Double ka meetha</string>
+    <string name="cuisine_description_meetha">Paradise Restaurant(Secunderabad), Sahibs Ohris(Hitec City)</string>
+
+    <!--Name and description of Paya under cuisines-->
+    <string name="cuisine_name_paya">Paya</string>
+    <string name="cuisine_description_paya">Paradise Restaurant(Secunderabad), Pista House(Old City), Hotel Shadab(Ghansi Bazar)</string>
+
+    <!--Name and description of Ramoji Film city under Things to do-->
+    <string name="things_to_do_ramoji">Day Tour to Ramoji Film city</string>
+    <string name="ramoji_description">The Ramoji Film City in India is located in Hyderabad. At 2000 acres, it is the largest integrated film city in the Telangana and the largest studio complex in the world. The film city was also certified by the Guinness World Records as the world’s largest Film Studio complex. It was set up by Ramoji Group in 1996.</string>
+
+    <!--Name and description of Birla under Things to do-->
+    <string name="things_to_do_birla_mandir">Visit Birla Mandir</string>
+    <string name="birla_mandir_description">Birla Mandir is a Hindu temple, built on a 280 feet (85 m) high hillock called Naubath Pahad on a 13 acres (53,000 m2) plot. The construction took 10 years and was opened in 1976 by Swami Ranganathananda of Ramakrishna Mission. The temple was constructed by Birla Foundation, which has also constructed several similar temples across India, all of which are known as Birla Mandir.</string>
+
+    <!--Name and description of Salar Jung Museum Things to do-->
+    <string name="things_to_do_salarjung">Visit Salar Jung Museum</string>
+    <string name="salarjung_description">The Salar Jung Museum is an art museum located at Darushifa, on the southern bank of the Musi River in the city of Hyderabad, Telangana, India. It is one of the three National Museums of India. It has a collection of sculptures, paintings, carvings, textiles, manuscripts, ceramics, metallic artefacts, carpets, clocks, and furniture from Japan, China, Burma, Nepal, India, Persia, Egypt, Europe, and North America. The museums collection was sourced from the property of the Salar Jung family. It is one of the largest museums in the world.</string>
+
+    <!--Name and description of Lumbini Park under Things to do-->
+    <string name="things_to_do_lumbinipark">Visit Lumbini Park and Hussain Sagar</string>
+    <string name="lumbinipark_description">Lumbini Park is a small public, urban park of 7.5 acres (0.030 km2; 0.0117 sq mi) adjacent to Hussain Sagar in Hyderabad, India. India named after Lumbini of Nepal dedicated to Lord Buddha. Boating is one of the best part and people go to the Budha idol placed in the middle of the tank band in the boats. Constructed in 1994, the park is maintained by the Buddha Purnima Project Authority that functions under the directives of the Government of Telangana.</string>
+
+</resources>

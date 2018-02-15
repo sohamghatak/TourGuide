@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/background_color"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/attraction_image_view"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/list_item_height"
+            android:layout_gravity="center"
+            android:scaleType="centerCrop"
+            android:src="@drawable/charminar" />
+
+        <TextView
+            android:id="@+id/location_button"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="8dp"
+            android:gravity="center"
+            android:background="#FFC107"
+            android:text="Location"
+            android:textAllCaps="true"
+            android:drawableRight="@drawable/ic_location_searching_black_24dp" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/place_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#1976D2"
+        android:gravity="center"
+        android:padding="8dp"
+        android:text="Sample text"
+        android:textColor="@color/whiteColor"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/description_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#2196F3"
+        android:gravity="center"
+        android:padding="16dp"
+        android:text="This is a sample description"
+        android:textColor="@color/whiteColor"
+        android:textSize="14sp"
+        android:textStyle="italic" />
+
+</LinearLayout>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00E676</color>
+    <color name="colorPrimaryDark">#00C853</color>
+    <color name="colorAccent">#00E5FF</color>
+
+    <!--Color of explore button on main screen-->
+    <color name="exploreButtonColor">#7CB342</color>
+
+    <!--white text color-->
+    <color name="whiteColor">#FFFFFF</color>
+
+    <!--Background color-->
+    <color name="background_color">#424242</color>
+
+    <!--color for text views in Attraction activity-->
+    <color name="primaryAttraction">#1976D2</color>
+    <color name="secondaryAttraction">#2196F3</color>
+
+    <!--color for text views in Historical activity-->
+    <color name="primaryHistorical">#388E3C</color>
+    <color name="secondaryHistorical">#4CAF50</color>
+
+    <!--color for text views in Things to do activity-->
+    <color name="primaryThingsToDo">#9C27B0</color>
+    <color name="secondaryThingsToDo">#8E24AA</color>
+
+    <!--color for text view in Cuisine activity-->
+    <color name="cuisineColor">#FFF9C4</color>
+</resources>
